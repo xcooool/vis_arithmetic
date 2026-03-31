@@ -1,0 +1,1856 @@
+{
+  "dataset_root": "dataset_test_flux_6_relations",
+  "relations": [
+    "antonym",
+    "atlocation",
+    "createdby",
+    "madeof",
+    "partof",
+    "usedfor"
+  ],
+  "counts_by_relation": {
+    "antonym": 50,
+    "atlocation": 50,
+    "createdby": 22,
+    "madeof": 42,
+    "partof": 48,
+    "usedfor": 50
+  },
+  "count": 262,
+  "items": [
+    {
+      "relation": "antonym",
+      "terms": [
+        "aries",
+        "libra"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "blacklist",
+        "greylist"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "brother",
+        "sister"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "cephalic",
+        "caudal"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "concrete class",
+        "abstract class"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "consent",
+        "dissent"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "discouragement",
+        "encouragement"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "dress shoe",
+        "athletic shoe"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "dynamic memory allocation",
+        "static memory allocation"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "dynamic permeability",
+        "intrinsic permeability"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "egress",
+        "entrance"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "email",
+        "snail mail"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "endothermic",
+        "exothermic"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "eyesore",
+        "feast for eyes"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "finger ring",
+        "toe ring"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "freshwater",
+        "saltwater"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "friend",
+        "enemy"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "guest",
+        "host"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "hinder",
+        "fore"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "hypervitaminosis",
+        "hypovitaminosis"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "hypogravity",
+        "hypergravity"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "implosion",
+        "explosion"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "ingroup",
+        "outgroup"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "landline",
+        "cellular phone"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "low slope roof",
+        "steep slope roof"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "matriarch",
+        "paterfamilias"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "maxi",
+        "mini"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "night",
+        "day"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "nighttime",
+        "daytime"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "noon",
+        "midnight"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "on road",
+        "off road"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "on site",
+        "off site"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "parallel",
+        "serial"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "patient",
+        "agent"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "rationalism",
+        "traditionalism"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "rear double biceps",
+        "front double biceps"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "rousseau esque",
+        "un rousseauesque"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "ruiner",
+        "builder"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "sadness",
+        "happiness"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "saleswoman",
+        "salesman"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "second growth forest",
+        "old growth forest"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "skywards",
+        "landward"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "smart bomb",
+        "dumb bomb"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "smart bomb",
+        "iron bomb"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "submission",
+        "rebellion"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "v form",
+        "t form"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "victim",
+        "offender"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "virgo",
+        "pisces"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "wholesale",
+        "retail"
+      ]
+    },
+    {
+      "relation": "antonym",
+      "terms": [
+        "winner",
+        "loser"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "a cafe",
+        "city"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "a cat",
+        "bag"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "a cat",
+        "someone's home"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "a credit card wallet",
+        "your purse"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "a dog",
+        "the rug"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "a dollar bill",
+        "your wallet"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "a fox",
+        "the hen house"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "a garment bag",
+        "the closet"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "a grill",
+        "a back yard"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "a hot faucet",
+        "a bathroom"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "a locker room",
+        "a health club"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "a mammoth",
+        "the frozen tundra"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "a microscope",
+        "a laboratory"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "a monkey",
+        "the circus"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "a paper",
+        "a notebook"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "a pencil",
+        "a desktop"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "a plant",
+        "a pot"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "a post office",
+        "the center of town"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "a sink",
+        "the kitchen"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "a slipper",
+        "your bed"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "a spider web",
+        "the corner"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "a steak",
+        "a plate"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "a string bass",
+        "music shop"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "a thermometer",
+        "the doctor"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "a toy soldier",
+        "a toy box"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "a tv",
+        "a livingroom"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "algae",
+        "the water"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "an address label",
+        "a drawer"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "an apple tree",
+        "Washington state"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "an explosive",
+        "bomb"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "an outfield",
+        "the baseball field"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "audience",
+        "the movies"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "beer",
+        "a bottle"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "cherries",
+        "a jar"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "dust",
+        "a library"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "dust",
+        "the fridge"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "fleas",
+        "a dog"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "garage",
+        "a car"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "ice cream",
+        "the freezer"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "ink",
+        "a printer"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "linoleum",
+        "floor"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "meatloaf",
+        "the oven"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "movies",
+        "the theatre"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "potholes",
+        "the street"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "red peppers",
+        "a pizza"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "river",
+        "a waterfall"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "semen",
+        "a test tube"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "sprinklers",
+        "the lawn"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "the bell",
+        "the front door"
+      ]
+    },
+    {
+      "relation": "atlocation",
+      "terms": [
+        "the sky",
+        "a planetarium"
+      ]
+    },
+    {
+      "relation": "createdby",
+      "terms": [
+        "A building",
+        "builders"
+      ]
+    },
+    {
+      "relation": "createdby",
+      "terms": [
+        "A child",
+        "birth"
+      ]
+    },
+    {
+      "relation": "createdby",
+      "terms": [
+        "A company",
+        "a founder"
+      ]
+    },
+    {
+      "relation": "createdby",
+      "terms": [
+        "A zygote",
+        "the union of a haploid spermatozoon and ovum"
+      ]
+    },
+    {
+      "relation": "createdby",
+      "terms": [
+        "a book",
+        "an author"
+      ]
+    },
+    {
+      "relation": "createdby",
+      "terms": [
+        "a cell",
+        "cell division"
+      ]
+    },
+    {
+      "relation": "createdby",
+      "terms": [
+        "a dam",
+        "humans"
+      ]
+    },
+    {
+      "relation": "createdby",
+      "terms": [
+        "a dance",
+        "a choreographer"
+      ]
+    },
+    {
+      "relation": "createdby",
+      "terms": [
+        "a dish",
+        "a chef"
+      ]
+    },
+    {
+      "relation": "createdby",
+      "terms": [
+        "a ghost",
+        "death"
+      ]
+    },
+    {
+      "relation": "createdby",
+      "terms": [
+        "a novel",
+        "an author"
+      ]
+    },
+    {
+      "relation": "createdby",
+      "terms": [
+        "an article",
+        "a writer"
+      ]
+    },
+    {
+      "relation": "createdby",
+      "terms": [
+        "babies",
+        "humans"
+      ]
+    },
+    {
+      "relation": "createdby",
+      "terms": [
+        "death",
+        "homicide"
+      ]
+    },
+    {
+      "relation": "createdby",
+      "terms": [
+        "death",
+        "suicide"
+      ]
+    },
+    {
+      "relation": "createdby",
+      "terms": [
+        "diamond",
+        "pressure"
+      ]
+    },
+    {
+      "relation": "createdby",
+      "terms": [
+        "drugs",
+        "synthesis"
+      ]
+    },
+    {
+      "relation": "createdby",
+      "terms": [
+        "friendship",
+        "trust"
+      ]
+    },
+    {
+      "relation": "createdby",
+      "terms": [
+        "fruit",
+        "plant"
+      ]
+    },
+    {
+      "relation": "createdby",
+      "terms": [
+        "paint",
+        "manufacture"
+      ]
+    },
+    {
+      "relation": "createdby",
+      "terms": [
+        "war",
+        "violent nations"
+      ]
+    },
+    {
+      "relation": "createdby",
+      "terms": [
+        "wine",
+        "fermentation"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "A newspaper",
+        "ink and paper"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "Atomic bomb",
+        "Plutonium"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "Eucharist",
+        "the body and blood of Jesus"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "Mixtures",
+        "elements and compounds"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "Some eyeglass frames",
+        "tortoise shell"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "The earth",
+        "layers of rock"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "a bicycle frame",
+        "carbon fibre"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "a boat",
+        "fiber"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "a bowl",
+        "glass"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "a choir",
+        "singers"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "a machine gun",
+        "metal"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "a protein",
+        "aminoacids"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "a skyscraper",
+        "steel"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "a submarine",
+        "steel"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "a titty",
+        "flesh"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "adenozine",
+        "oxygen"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "an anchor",
+        "iron"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "an oil tanker",
+        "metal"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "bomb",
+        "shrapnel"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "bubbles",
+        "soap"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "cake",
+        "flour"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "computer",
+        "microchips"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "dental floss",
+        "synthetic fibre"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "gnocchi",
+        "potato flour"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "human body",
+        "flesh"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "leather",
+        "cow skin"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "life",
+        "memories"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "many containers",
+        "glass"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "milk",
+        "minerals"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "organization",
+        "people"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "plants",
+        "cells"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "plastic",
+        "carbon"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "sand",
+        "little pieces of seashells"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "sea",
+        "water"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "statues",
+        "stone"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "the moon",
+        "rock"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "the world",
+        "countries"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "wallet",
+        "plastic"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "war",
+        "violence"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "water",
+        "oxegen"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "websites",
+        "webpages"
+      ]
+    },
+    {
+      "relation": "madeof",
+      "terms": [
+        "yarn",
+        "wool"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "Acheron",
+        "Hel"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "Borodino",
+        "Napoleonic Wars"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "Eustachian tube",
+        "middle ear"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "Hubbard",
+        "Coast Range"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "Thessalia",
+        "Greece"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "Your brain",
+        "your body"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "a head",
+        "an animal"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "active site",
+        "antibody"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "amniotic fluid",
+        "amniotic cavity"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "base",
+        "vessel"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "bell apple",
+        "Jamaica honeysuckle"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "biceps brachii",
+        "arm"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "brake pads",
+        "disk brake"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "breastplate",
+        "body armor"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "cabin",
+        "liner"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "ceiling",
+        "room"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "cellblock",
+        "prison"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "centavo",
+        "colon"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "cockpit",
+        "aircraft"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "cyanosis",
+        "carbon monoxide poisoning"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "digital arteries",
+        "foot"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "dressing room",
+        "theater"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "eye socket",
+        "skull"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "foot",
+        "homo"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "frankfurter bun",
+        "hotdog"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "frontal eminence",
+        "frontal bone"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "glabella",
+        "frontal bone"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "golf-club head",
+        "golf club"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "heating element",
+        "electric range"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "kiwi",
+        "Chinese gooseberry"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "magnetic core",
+        "random-access memory"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "medial condyle",
+        "femur"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "mouthpiece",
+        "respirator"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "muzzle",
+        "head"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "penny",
+        "British pound"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "pier",
+        "wall"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "pneumatic tire",
+        "bicycle wheel"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "promotion",
+        "marketing"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "renal artery",
+        "kidney"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "seesaw",
+        "playground"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "shingling",
+        "construction"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "skin",
+        "aircraft"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "terabit",
+        "petabit"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "thymus gland",
+        "neck"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "trait",
+        "personality"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "very high frequency",
+        "electromagnetic spectrum"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "word order",
+        "text"
+      ]
+    },
+    {
+      "relation": "partof",
+      "terms": [
+        "wrinkle",
+        "skin"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "A Compact Flash card",
+        "store data"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a barbecue restaurant",
+        "dining"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a billboard",
+        "advertisement"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a billfold",
+        "money"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a chapel",
+        "meditation"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a churchyard",
+        "charitie events"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a computer",
+        "entertainment"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a dentist office",
+        "oral hygiene"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a doll",
+        "a plaything for a dog"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a first class airplane seat",
+        "rich people"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a freeway",
+        "transportation"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a gold",
+        "decorative metal"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a gymnasium",
+        "exercise"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a hockey puck",
+        "scoring goals"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a house",
+        "shelter"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a leaf",
+        "photosynthesis"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a leg",
+        "humping"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a machine",
+        "dispense popcorn"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a machine",
+        "exercise muscles"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a machine",
+        "smooth wood"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a machine",
+        "spray paint"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a metal",
+        "strength"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a muscle",
+        "extension"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a necklace",
+        "gifts"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a parking structure",
+        "cars"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a payment counter",
+        "commercial exchange"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a playroom",
+        "store toys"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a pleasure garden",
+        "sex"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a ranch",
+        "rasing cattle"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a room",
+        "comfort"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a saddle",
+        "a horse"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a saucepan",
+        "boil eggs"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a shirt",
+        "protection from the cold"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a thoroughfare",
+        "traffic"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a water spout",
+        "access to water"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a woods",
+        "deer"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "a wristwatch",
+        "A piece of jewellery"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "an account book",
+        "records of transactions"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "an airplane seat",
+        "passengers"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "an apple",
+        "dessert"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "an armchair",
+        "a living room or family room"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "an electric socket",
+        "short circiuting"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "an underground area",
+        "storage"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "arrow",
+        "target"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "carpeting",
+        "utility"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "drug screening",
+        "test for drug use"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "jeans",
+        "clothing"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "loli",
+        "fun"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "the Earth",
+        "it's environment"
+      ]
+    },
+    {
+      "relation": "usedfor",
+      "terms": [
+        "wheat",
+        "cake"
+      ]
+    }
+  ]
+}
